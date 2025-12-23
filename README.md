@@ -9,34 +9,7 @@ Dynamic route updates on campus map
 User-friendly and interactive interface
 
 # Project Structure
-campus_nav/
-├── app/
-│   ├── identify/page.tsx        # Object identification page
-│   ├── navigate/normal/page.tsx # Navigation logic
-│   ├── globals.css              # Global styles
-│   ├── layout.tsx               # Root layout
-│   └── page.tsx                 # Home page
-├── components/
-│   ├── AROverlay.tsx            # Augmented Reality overlay
-│   ├── CameraView.tsx           # Camera feed handling
-│   └── MapView.tsx              # Interactive map component
-├── hooks/
-│   ├── useLocation.ts           # Geolocation hook
-│   ├── useObstacleDetection.ts  # Object detection logic
-│   └── useSpeech.ts             # Text-to-speech hook
-├── lib/
-│   ├── locationClassifier.ts    # Location classification logic
-│   ├── navigationGraph.ts       # Graph data structure
-│   ├── pathfinding.ts           # Dijkstra / A* algorithms
-│   └── vision.ts                # Computer vision utilities
-├── public/
-│   ├── custom_model/            # TensorFlow.js model files
-│   └── ...                      # Icons and static assets
-├── scripts/
-├── .gitignore
-├── next.config.ts
-├── package.json
-└── tsconfig.json
+<img width="705" height="710" alt="image" src="https://github.com/user-attachments/assets/159098de-c98d-4f00-9829-0a77e1d7d899" />
 
 
 👩‍💻 Developed By
