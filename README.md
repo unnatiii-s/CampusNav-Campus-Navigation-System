@@ -25,9 +25,9 @@ campus_nav/
 │   ├── useObstacleDetection.ts  # Object detection logic
 │   └── useSpeech.ts             # Text-to-speech hook
 ├── lib/
-│   ├── locationClassifier.ts    # Logic to classify location
+│   ├── locationClassifier.ts    # Location classification logic
 │   ├── navigationGraph.ts       # Graph data structure
-│   ├── pathfinding.ts           # Dijkstra/A* algorithms
+│   ├── pathfinding.ts           # Dijkstra / A* algorithms
 │   └── vision.ts                # Computer vision utilities
 ├── public/
 │   ├── custom_model/            # TensorFlow.js model files
@@ -37,6 +37,7 @@ campus_nav/
 ├── next.config.ts
 ├── package.json
 └── tsconfig.json
+
 
 👩‍💻 Developed By
 Unnati Sutradhar
